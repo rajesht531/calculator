@@ -1,4 +1,4 @@
-console.log("Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io")
+console.log("Javascript Calculator Made by Rajesh\nhttps://rajeshgnits.github.io")
 
 document.getElementById('answer').readOnly = true;
 let screen = document.getElementById('answer');
